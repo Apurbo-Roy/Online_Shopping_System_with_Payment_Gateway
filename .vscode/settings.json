@@ -1,0 +1,11 @@
+{
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.ChromeDebuggingAttachment": false,
+  "[php]": {
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+  }
+}
